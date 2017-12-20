@@ -44,3 +44,8 @@ git commit -m "Mensagem de commit"
 ```
 git push origin master
 ```
+
+- Trazer alterações do repositório remoto para o local:
+```
+git pull origin master
+```
